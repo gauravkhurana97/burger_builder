@@ -2,3 +2,4 @@ node_modules/
 yarn.lock
 scripts/
 config/
+package-lock.json

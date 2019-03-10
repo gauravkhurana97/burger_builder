@@ -1,11 +1,5 @@
 body {
   margin: 0;
   padding: 0;
-  /* open sans as main font and sans serif as backened font */
-  font-family: "Open Sans",sans-serif ;
-  }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: "Open Sans", sans-serif;
 }
